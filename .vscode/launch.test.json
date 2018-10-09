@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "dependency-analysis",
+                "projectName": "dependency-analysis",
+                "workingDirectory": "/Users/lwandile/Work/dependency-analysis/dependency-analysis",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "dependency-analysis",
+                "projectName": "dependency-analysis",
+                "workingDirectory": "/Users/lwandile/Work/dependency-analysis/dependency-analysis",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}

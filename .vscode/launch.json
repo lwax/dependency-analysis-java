@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DependencyAnalysis",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.urbanise.DependencyAnalysis",
+            "args": "",
+            "projectName": "dependency-analysis"
+        }
+    ]
+}
